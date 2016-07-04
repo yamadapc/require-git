@@ -12,7 +12,7 @@
   "author": "Pedro Tacla Yamada",
   "license": "MIT",
   "devDependencies": {
-    "blanket": "1.1.7",
+    "blanket": "1.2.2",
     "mocha": "^2.1.0",
     "mocha-make-stub": "^2.3.2",
     "mocha-spec-cov-alt": "^1.1.1",
